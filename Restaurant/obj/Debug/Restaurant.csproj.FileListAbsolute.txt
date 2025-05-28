@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\user\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\user\source\repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe.config
+C:\Users\user\source\repos\Restaurant\Restaurant\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.Up2Date
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.LoginFrm.resources
+C:\Users\user\source\repos\Restaurant\Restaurant\obj\Debug\Restaurant.KryesoreFrm.resources
